@@ -1,5 +1,6 @@
 # Hi there 👋
 I'm Anastasia and I'm a frontend developer
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!---
