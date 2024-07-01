@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Anastasia and I'm a frontend developer
 
-Here's my portfolio: anastasiacheb.github.io/
+Here's my <a href="https://anastasiacheb.github.io/">portfolio</a>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma)](https://skillicons.dev)
 
