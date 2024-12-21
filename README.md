@@ -3,7 +3,7 @@ I'm Anastasia and I'm a frontend developer
 
 Here's my <a href="https://anastasiacheb.github.io/" target=_blank>portfolio</a>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,vite,npm,git,github,vscode,figma,bem)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,vite,npm,git,github,vscode,figma,eslint,prettier)](https://skillicons.dev)
 
 <!---
 anastasiacheb/anastasiacheb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
