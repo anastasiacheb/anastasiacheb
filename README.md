@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Anastasia and I'm a frontend developer
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,vite,react,npm,git,github,vscode,figma,eslint,prettier)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,vite,react,nextjs,npm,git,github,vscode,figma)](https://skillicons.dev)
 
 <!---
 anastasiacheb/anastasiacheb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
